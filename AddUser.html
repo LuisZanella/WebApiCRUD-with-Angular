@@ -1,0 +1,56 @@
+﻿<div id="add" tabindex="-1" role="dialog" aria-labelledby="add-modal-label">
+
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <form class="form-horizontal" id="add-form">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" ng-click="Close()"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="add-modal-label">Add new User</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="add-firstname" class="col-sm-2 control-label">Name</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="add-Name" name="Name" placeholder="Name" ng-model="Name" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="add-firstname" class="col-sm-2 control-label">First LastName</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="add-FirstLastName" name="FirstLastName" placeholder="First Last Name" ng-model="FLastName" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="add-lastname" class="col-sm-2 control-label">Second LastName</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="add-SecondLastName" name="SecondLastName" placeholder="Second Last Name" ng-model="SLastName" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="add-address" class="col-sm-2 control-label">Nick</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="add-Nick" name="Nick" placeholder="Nick" ng-model="Nick">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="add-salary" class="col-sm-2 control-label">Password</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="add-Password" name="Password" placeholder="Password" ng-model="Password" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="add-dob" class="col-sm-2 control-label">Birth Date</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="add-BirthDate" name="mobile" placeholder="Birth Date" ng-model="BirthDate" required> [ex: 1990-01-21]
+                        </div>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal" ng-click="Close()">Close</button>
+                    <button type="submit" class="btn btn-primary" ng-click="Add()">Save changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

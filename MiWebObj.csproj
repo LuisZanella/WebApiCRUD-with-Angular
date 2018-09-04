@@ -95,11 +95,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AddUser.html" />
+    <Content Include="DeleteUser.html" />
+    <Content Include="EditUser.html" />
+    <Content Include="Recursos\Fonts\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Recursos\Java\BootStrap\bootstrap.bundle.js" />
+    <Content Include="Recursos\Java\BootStrap\bootstrap.js" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap-grid.css" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap-grid.min.css" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap-reboot.css" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap-reboot.min.css" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap.css" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap.min.css" />
+    <Content Include="Recursos\Java\JS\App.js" />
+    <Content Include="Recursos\Java\JS\UserController.js" />
     <Content Include="Global.asax" />
     <Content Include="Index.html" />
+    <Content Include="Recursos\Java\Angular\angular-route.js" />
     <Content Include="Recursos\Java\Angular\angular.js" />
     <Content Include="Recursos\Java\Jquery\jquery-3.3.1.js" />
     <Content Include="Recursos\Java\JS\Index.js" />
+    <Content Include="UpdateUser.html" />
+    <Content Include="UserList.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -119,6 +136,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="Recursos\CSS\BootStrap\.DS_Store" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap-grid.css.map" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap-grid.min.css.map" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap-reboot.css.map" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap-reboot.min.css.map" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap.css.map" />
+    <Content Include="Recursos\CSS\BootStrap\bootstrap.min.css.map" />
+    <Content Include="Recursos\Fonts\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Recursos\Fonts\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Recursos\Fonts\fonts\glyphicons-halflings-regular.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

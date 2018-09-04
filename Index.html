@@ -2,9 +2,20 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Product App</title>
+    <!-- JS -->
     <script src="Recursos/Java/Jquery/jquery-3.3.1.js"></script>
     <script src="Recursos/Java/JS/Index.js"></script>
     <script src="Recursos/Java/Angular/angular.js"></script>
+    <script src="Recursos/Java/Angular/angular-route.js"></script>
+    <script src="Recursos/Java/JS/App.js"></script>
+    <script src="Recursos/Java/JS/UserController.js"></script>
+    <script src="Recursos/Java/BootStrap/bootstrap.bundle.js"></script>
+    <script src="Recursos/Java/BootStrap/bootstrap.js"></script>
+    <!-- CSS -->
+    <link href="Recursos/CSS/BootStrap/bootstrap-grid.css" rel="stylesheet" />
+    <link href="Recursos/CSS/BootStrap/bootstrap-reboot.css" rel="stylesheet" />
+    <link href="Recursos/CSS/BootStrap/bootstrap.css" rel="stylesheet" />
+    <!-- Fonts -->
 </head>
 <body>
     <div>
@@ -17,10 +28,9 @@
         <input type="button" value="Search" onclick="find()" />
         <p id="User" />
     </div>
-    <div ng-app="">
-        <p>Input something in the input box:</p>
-        <p>Name: <input type="text" ng-model="name"></p>
-        <p ng-bind="name"></p>
+    <div ng-app="myApp" ng-controller="UserController">
+        <div ng-view></div>
     </div>
+  
 </body>
 </html>
