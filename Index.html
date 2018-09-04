@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Product App</title>
+    <script src="Recursos/Java/Jquery/jquery-3.3.1.js"></script>
+    <script src="Recursos/Java/JS/Index.js"></script>
+    <script src="Recursos/Java/Angular/angular.js"></script>
+</head>
+<body>
+    <div>
+        <h2>All Users</h2>
+        <div id="tblUsuarios"></div>
+    </div>
+    <div>
+        <h2>Search by ID</h2>
+        <input type="text" id="txtId" size="5" />
+        <input type="button" value="Search" onclick="find()" />
+        <p id="User" />
+    </div>
+    <div ng-app="">
+        <p>Input something in the input box:</p>
+        <p>Name: <input type="text" ng-model="name"></p>
+        <p ng-bind="name"></p>
+    </div>
+</body>
+</html>

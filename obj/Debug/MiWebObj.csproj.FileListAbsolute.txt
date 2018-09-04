@@ -1,0 +1,144 @@
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\obj\Debug\MiWebObj.csprojAssemblyReference.cache
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\obj\Debug\MiWebObj.csproj.CoreCompileInputs.cache
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\MiWebObj.dll.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\MiWebObj.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\MiWebObj.pdb
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\csc.exe
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\csc.exe.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\csc.rsp
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\csi.exe
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\csi.exe.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\csi.rsp
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.AppContext.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Console.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\vbc.exe
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\vbc.exe.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\vbc.rsp
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\Microsoft.Owin.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\Newtonsoft.Json.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\Owin.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Net.Http.Formatting.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Cors.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Http.Cors.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Http.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Http.Owin.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Http.WebHost.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\Microsoft.Owin.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Net.Http.Formatting.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Http.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Http.Cors.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Http.Owin.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\Newtonsoft.Json.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\System.Web.Http.WebHost.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\obj\Debug\MiWebObj.csproj.CopyComplete
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\obj\Debug\MiWebObj.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\WEB API\MiWebObj\MiWebObj\obj\Debug\MiWebObj.pdb
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\MiWebObj.dll.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\MiWebObj.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\MiWebObj.pdb
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\csc.exe
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\csc.exe.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\csc.rsp
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\csi.exe
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\csi.exe.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\csi.rsp
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.AppContext.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Console.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\vbc.exe
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\vbc.exe.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\vbc.rsp
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\Microsoft.Owin.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\Newtonsoft.Json.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\Owin.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Net.Http.Formatting.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Cors.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Http.Cors.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Http.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Http.Owin.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Http.WebHost.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\Microsoft.Owin.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Net.Http.Formatting.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Http.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Http.Cors.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Http.Owin.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\Newtonsoft.Json.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\System.Web.Http.WebHost.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\obj\Debug\MiWebObj.csprojAssemblyReference.cache
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\obj\Debug\MiWebObj.csproj.CoreCompileInputs.cache
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\obj\Debug\MiWebObj.csproj.CopyComplete
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\obj\Debug\MiWebObj.dll
+C:\Users\Zane\Documents\Semestre 3\Atilano\MiWebObj\MiWebObj\obj\Debug\MiWebObj.pdb
