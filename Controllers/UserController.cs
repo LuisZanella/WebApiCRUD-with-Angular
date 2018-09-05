@@ -59,9 +59,9 @@ namespace MiWebObj.Controllers
             {
                 throw new Exception(SqlExce.ToString());
             }
-            catch (Exception)
+            catch (Exception Exce)
             {
-                throw new Exception("Error");
+                throw new Exception(Exce.ToString());
             }
             finally
             {
