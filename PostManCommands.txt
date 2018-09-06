@@ -1,0 +1,64 @@
+Pruebas en POSTMAN
+(Cambiar localhost por el montaje)
+Other User
+--Get ALL--
+http://localhost:54238/api/otheruser
+-- Get Especific Diary--
+http://localhost:54238/api/otheruser?Id=1
+--Post--
+http://localhost:54238/api/otheruser
+{
+	
+	"Name": "Rodrigo",
+
+	"FLastName": "Goméz",
+	"SLastName": "Castañeda",
+
+	"Nick": "Rodrick",
+
+	"Password": "AvengedSevenFold",
+	"BirthDate": "1999-07-01"
+
+}
+--Put--
+http://localhost:54238/api/otheruser
+{
+	
+	"Name":"Rodolfo",
+
+	"Id":"4"
+
+}
+--Delete--
+http://localhost:54238/api/otheruser?Id=1
+
+Diary
+--Get ALL--
+http://localhost:54238/api/Diary
+-- Get Especific Diary--
+http://localhost:54238/api/Diary?Id=1
+--Post--
+http://localhost:54238/api/Diary
+{
+	
+	"Description":"Nada que decir de este día lo mismo de siempre :(, esperen... soy yo el que hace que cambie!! :)",
+
+	"Date": "2018-05-20",
+
+	"Person":{"Id": "1"}
+
+}
+--Put--
+http://localhost:54238/api/Diary
+{
+	
+	
+	"Description":"Viva Postman!! :3 Hurra!",
+
+	"Id":"1"
+
+}
+--Delete--
+http://localhost:54238/api/Diary?Id=1
+
+
